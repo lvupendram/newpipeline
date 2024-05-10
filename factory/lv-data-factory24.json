@@ -1,0 +1,9 @@
+{
+	"name": "lv-data-factory24",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79498c01-bc00-4641-8813-fc572c7d8763",
+		"tenantId": "2be47b06-4b0a-41d5-b1e5-b9da32092680"
+	}
+}
